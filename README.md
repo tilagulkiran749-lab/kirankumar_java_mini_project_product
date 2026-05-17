@@ -10,3 +10,5 @@ https://github.com/tilagulkiran749-lab/kirankumar_java_mini_project_product/blob
 https://github.com/tilagulkiran749-lab/kirankumar_java_mini_project_product/blob/main/reportCaterogy.jpg
 
 https://github.com/tilagulkiran749-lab/kirankumar_java_mini_project_product/blob/main/deleteProduct.jpg
+
+https://github.com/tilagulkiran749-lab/kirankumar_java_mini_project_product/blob/main/deleteProduct%2001.jpg
